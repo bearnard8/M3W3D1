@@ -1,0 +1,34 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+#jumbotron {
+    background-color: #7751F7;
+}
+
+#content{
+    background-color: #F5F4F8;
+}
+
+#camera, #group, #schedule {
+    background-color: #FFEDDB;
+    color: #BC7B2E;
+    border-radius: 50%;
+}
+
+.empty-star {
+    font-variation-settings: 
+    'FILL' 0,
+    'wght' 100,
+    'GRAD' 0,
+    'opsz' 24
+}
+
+.full-star{
+    font-variation-settings: 
+    'FILL' 1,
+    'wght' 100,
+    'GRAD' 0,
+    'opsz' 24
+}
